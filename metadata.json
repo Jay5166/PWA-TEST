@@ -1,0 +1,6 @@
+{
+  "name": "Business AI PWA & Push Notification Hub",
+  "description": "Full-featured Progressive Web App prototype with Groq AI business chatbot, local knowledge base, Web Push notifications, QR launcher, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
